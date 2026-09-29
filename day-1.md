@@ -8,7 +8,7 @@ Here I am, overlooking TT lectures.
 What did I do last week?
 - abc
 - xyz
-- mno
+    - mno
 
 What are we doing today?
 1. pqr
@@ -16,4 +16,4 @@ What are we doing today?
 
 Task list
 - [ ] T1
-- [x] T2
+    - [x] T2
